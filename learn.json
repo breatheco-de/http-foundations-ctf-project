@@ -1,0 +1,17 @@
+{
+  "slug": "http-foundations-ctf-project",
+  "title": {
+    "en": "HTTP Foundations CTF",
+    "es": "CTF Fundamentos HTTP"
+  },
+  "description": {
+    "en": "A Capture The Flag project to learn about HTTP foundations.",
+    "es": "Un proyecto de Captura La Bandera para aprender sobre los fundamentos de HTTP."
+  },
+  "language": "en",
+  "repository": "https://github.com/breatheco-de/http-foundations-ctf-project",
+  "duration": 1,
+  "projectType": "tutorial",
+  "difficulty": "beginner",
+  "technologies": ["http", "express", "nodejs"]
+} 
