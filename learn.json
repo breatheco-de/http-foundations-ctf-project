@@ -9,7 +9,6 @@
     "es": "Un proyecto de Captura La Bandera (CTF) diseñado para consolidar tu comprensión de los conceptos fundamentales de HTTP. Resolviendo una serie de desafíos, aprenderás a analizar peticiones y respuestas HTTP, manipular cabeceras, entender métodos y códigos de estado, e identificar patrones web comunes. Este proyecto te proporcionará habilidades prácticas en comunicación web y una introducción a los principios de seguridad web."
   },
   "preview": "https://github.com/breatheco-de/http-foundations-ctf-project/blob/main/preview.png?raw=true",
-  "language": "en",
   "repository": "https://github.com/breatheco-de/http-foundations-ctf-project",
   "duration": 1,
   "projectType": "tutorial",
