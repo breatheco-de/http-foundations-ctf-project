@@ -9,7 +9,6 @@
     "es": "Un proyecto de Captura La Bandera para aprender sobre los fundamentos de HTTP."
   },
   "preview": "https://github.com/breatheco-de/http-foundations-ctf-project/blob/main/preview.png?raw=true",
-  "language": "en",
   "repository": "https://github.com/breatheco-de/http-foundations-ctf-project",
   "duration": 1,
   "projectType": "tutorial",
