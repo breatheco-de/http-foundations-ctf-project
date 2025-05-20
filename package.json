@@ -1,0 +1,25 @@
+{
+  "name": "http-foundations-ctf-project",
+  "version": "1.0.0",
+  "description": "HTTP Foundations CTF Project - Simple HTML/JS Frontend",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "build:css": "echo \"No CSS build step needed with Bootstrap CDN\"",
+    "dev": "node api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {}
+}
