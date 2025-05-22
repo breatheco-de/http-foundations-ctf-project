@@ -19,7 +19,7 @@
   		"us": "As you complete the challenges, you will discover one or more flags that need to be added to the platform.",
   		"es": "A medida que completes los desafíos, descubrirás una o más banderas que deben añadirse a la plataforma."
   	},
-  	"formats": ["flag"],
+  	"formats": ["flags"],
   	"quantity": 4
   }
 } 
